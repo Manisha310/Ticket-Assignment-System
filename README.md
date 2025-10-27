@@ -58,25 +58,7 @@ To overcome these challenges, this project implements an **automated ticket assi
 2. Navigate to the *Ticket Assignment Module*.
 3. Create a new incident or request.
 4. Observe automatic ticket routing based on the assignment logic.
-5. Track the ticket status until resolution.
-
-
-
-## Screenshots
-(Add screenshots of your ServiceNow workflows, ticket creation, and assignment results here.)
-
-
-
-##  Project Links
-- **GitHub Repository:** [Add your GitHub repo link here]
-- **Demo Video (if available):** [Add YouTube or Drive link here]
-
-
-
-## Author
-**Name:** [Your Full Name]  
-**Email:** [Your Email Address]  
-**Organization:** SmartInternz Guided Project
+5. Track the ticket status until resolution
 
 
 
@@ -85,5 +67,4 @@ This project successfully automates the ticket assignment process, ensuring effi
 
 
 
-###  License
-This project is developed as part of the **SmartInternz Guided Project** and is intended for academic and learning purposes.
+
